@@ -1,3 +1,3 @@
-const url = 'https://docker-production-aa31.up.railway.app/';
+const url = 'https://ivanpratasevich-rs-lang.vercel.app/';
 
 export default url;
